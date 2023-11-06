@@ -53,6 +53,10 @@ plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 ```
 
+
+
+
+
 ## Output 
 <img src="https://github.com/Balachandran143/Correlation_Regression/assets/118886489/97cc16af-3332-4431-84be-111e0b3d7250" width=450 height=450>
 <br>

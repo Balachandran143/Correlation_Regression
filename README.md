@@ -1,16 +1,10 @@
 # Correlation and regression for data analysis
 ## Aim : 
-
 To analyse given data using coeffificient of correlation and regression line
 ![image](https://user-images.githubusercontent.com/104613195/168224136-d6b64e64-7d3d-4775-9337-c8f96fe41f2d.png)
-
-
 ## Software required :  
-
 Python
-
 ## Procedure :
-
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 ## Program :
@@ -52,8 +46,6 @@ plt.xlabel('x-data')
 plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 ```
-
-
 ## Output 
 
 <img src="https://github.com/Balachandran143/Correlation_Regression/assets/118886489/97cc16af-3332-4431-84be-111e0b3d7250" width=450 height=450>
